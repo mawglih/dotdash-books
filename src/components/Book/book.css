@@ -1,0 +1,5 @@
+.title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-height: 2.6em;
+}

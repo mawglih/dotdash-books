@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const apiUrl = 'https://goodreads-server-express--dotdash.repl.co/search/';
+const apiUrl = 'https://cors-anywhere.herokuapp.com/https://goodreads-server-express--dotdash.repl.co/search/';
+
 
 export default {
   books: term => {

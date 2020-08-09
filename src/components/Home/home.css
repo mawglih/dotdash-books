@@ -1,0 +1,13 @@
+.form > button {
+  padding: 20px 40px;
+  margin-left: 10px;
+  background-color: #e7e5d9;
+  color: darkgreen;
+  text-transform: uppercase;
+}
+.form > input {
+  padding: 20px;
+}
+.form {
+  margin-bottom: 20px;
+}
